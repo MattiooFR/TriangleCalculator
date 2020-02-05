@@ -197,8 +197,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Markdown Files
-*.md
-
 # Node Modules
 node_modules
